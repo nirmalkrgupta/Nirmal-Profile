@@ -1,2 +1,2 @@
-# Nirmal-s-Profile
+# Nirmal Profile
 My Profile Card UI Design
